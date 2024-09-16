@@ -1,5 +1,6 @@
-# PracticasFP23
-Proyectos hechos en mis prácticas de grado medio
+# Make a VM by Text
+-------------------------------
+Sin necesidad de interfaz gráfica o comandos largos, solo escribe lo que quieres.
 
 
 Este es uno de los proyectos que hice en las prácticas de mi grado medio de sistemas microinformáticos y redes. 
