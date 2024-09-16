@@ -1,7 +1,7 @@
 # Make a VM by Text
--------------------------------
-Sin necesidad de interfaz gráfica o comandos largos, solo escribe lo que quieres.
 
+Sin necesidad de interfaz gráfica o comandos largos, solo escribe lo que quieres.
+-------------------------------
 
 Este es uno de los proyectos que hice en las prácticas de mi grado medio de sistemas microinformáticos y redes. 
 Se trata de un programa que mediante VBoxManage permite crear una máquina virtual mediante la escritura de los parámetros/nombres de sus componentes y nada más.
